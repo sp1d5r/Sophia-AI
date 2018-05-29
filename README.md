@@ -19,12 +19,12 @@ To add training data/change training data go into `Sophia-AI/Sophia_Training_Cor
 - Now go into `Sophia_Train.py` 
 - under the set language declaration, inside the while loop you have to create a new if statement. 
 - copy and paste the if statement below with the altered options
-------------------------------------------------------------------------------------------------------------------------------
+```
+```python
 if select_language.lower() == 'YOURLANGUAGE':  #<----- enter the name of your language
 		data_location = file_location + '/Sophia_training_Corpus/data/YOURLANGUAGE/'  # <------ enter the name of your language dir
 		print('Sophia: English Selected')
 		languageSet = True
-------------------------------------------------------------------------------------------------------------------------------
 ```
 2) to add to an existing language: 
 ```

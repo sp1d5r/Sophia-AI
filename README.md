@@ -1,6 +1,9 @@
 # Sophia - AI 
 This is a chatbot made using the chatterbot module in python, it involves machine learning and is a basic artificial intellegence. It can easily be adjusted to include more data. 
 
+-- Update --
+This doesn't use machine learning or any fancy AI, it's a module installed when I was younger and I haven't updated it out of nostalgia. Instead consider this an out-of-date guide for the chatterbot module. 
+
 ## Change the Name
 to change Sophia's name to something else just open up the `Sophia_Train.py` and then travel to the begining part where it says 
 ``` python

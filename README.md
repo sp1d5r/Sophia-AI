@@ -4,6 +4,12 @@ This is a chatbot made using the chatterbot module in python, it involves machin
 -- Update --
 This doesn't use machine learning or any fancy AI, it's a module installed when I was younger and I haven't updated it out of nostalgia. Instead consider this an out-of-date guide for the chatterbot module. 
 
+## Content
+* [Changing Sophia's Name](#change-the-name)
+* [Custom Training data](#add-training-data)
+* [Credit](#credit)
+* [Social Media](#social-media)
+
 ## Change the Name
 to change Sophia's name to something else just open up the `Sophia_Train.py` and then travel to the begining part where it says 
 ``` python
@@ -41,5 +47,9 @@ if select_language.lower() == 'YOURLANGUAGE':  #<----- enter the name of your la
 ## Credit: 
 All of the credit goes to [gunthercox](https://github.com/gunthercox) , without his python module none of this would be possible, read his chatterbot repository because that will go into detail about creating a custome language. 
 Message me on social media if you are having difficulties: 
-- [@sp1d5r](https://www.instagram.com/sp1d5r/)  ~~ instagram 
-- [@sp1d5r](https://www.snapchat.com/add/sp1d5r) ~~ snapchat
+
+# Social Media
+- [Linkden - Elijah Ahmad](https://www.linkedin.com/in/elijah-ahmad-658a2b199/)
+- [FaceBook - Elijah Ahmad](https://www.facebook.com/elijah.ahmad.71)
+- [Instagram - @ElijahAhmad__](https://www.instagram.com/ElijahAhmad__)
+- [Snapchat - @Elijah.Ahmad](https://www.snapchat.com/add/elijah.ahmad)
